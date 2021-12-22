@@ -1,4 +1,5 @@
-#Search a key from given linkedlist
+#Search a key from given Linked List
+
 public Boolean SearchAnElement(int element)
 {
     LinkedList current = head;
